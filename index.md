@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my very bootiful blog! 
+hello im kristen :3
 ---
